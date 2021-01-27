@@ -1,7 +1,7 @@
 [GITHUB_PROFILE]: https://github.com/CookiesEason
 [GITHUB_STATS_SRC]: https://github-readme-stats.vercel.app/api?username=CookiesEason&show_icons=true&theme=vue&count_private=true
 [GITHUB_LANG_SRC]: https://github-readme-stats.vercel.app/api/top-langs/?username=CookiesEason&layout=compact&theme=vue&hide=javascript
-<img src="https://raw.githubusercontent.com/CookiesEason/CookiesEason/master/rocket.png" align="right" width="130" />
+<img src="https://raw.githubusercontent.com/CookiesEason/CookiesEason/master/rocket.png" align="right" width="195" />
 [![CookiesEason's github stats][GITHUB_STATS_SRC]][GITHUB_PROFILE]
 [![CookiesEason's Top Langs][GITHUB_LANG_SRC]][GITHUB_PROFILE]
 
