@@ -3,5 +3,6 @@
 [GITHUB_LANG_SRC]: https://github-readme-stats.vercel.app/api/top-langs/?username=CookiesEason&layout=compact&theme=vue&hide=javascript
 
 [![CookiesEason's github stats][GITHUB_STATS_SRC]][GITHUB_PROFILE]
+
 [![CookiesEason's Top Langs][GITHUB_LANG_SRC]][GITHUB_PROFILE]
 
